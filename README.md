@@ -1,14 +1,14 @@
 <!-- PORTUGUESE VERSION -->
-<h1 id="pt-br">Luiz Filipe | Especialista em TI & Desenvolvedor </h1>
+# Luiz Filipe | Especialista em TI & Desenvolvedor
 
 <p align="justify">
   Profissional de Tecnologia da Informação com ampla experiência em <strong>infraestrutura corporativa</strong>, <strong>suporte avançado</strong>, <strong>cibersegurança</strong>, <strong>desenvolvimento web</strong>, <strong>automação de processos</strong> e <strong>integração de sistemas</strong>.
 </p>
 
 <details open>
-  <summary><h2>🧰 Stack Tecnológico</h2></summary>
+  <summary>🧰 Stack Tecnológico</summary>
   
-  <h3>💻 Linguagens de Programação</h3>
+  ### 💻 Linguagens de Programação
   <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </div>
   
-  <h3>🎨 Frontend</h3>
+  ### 🎨 Frontend
   <div align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </div>
   
-  <h3>⚙️ Backend & Bancos de Dados</h3>
+  ### ⚙️ Backend & Bancos de Dados
   <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary><h2>📊 GitHub Analytics</h2></summary>
+  <summary>📊 GitHub Analytics</summary>
   <div align="center">
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=luizfspb&theme=dracula&column=3&row=2" alt="GitHub Trophies">
     <br><br>
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary><h2>🚀 Principais Projetos</h2></summary>
+  <summary>🚀 Principais Projetos</summary>
   <ul>
     <li><a href="https://github.com/luizfspb/projeto1">💼 Sistema de Gestão Empresarial</a> - Aplicação web para gestão de recursos e processos empresariais</li>
     <li><a href="https://github.com/luizfspb/projeto2">🔐 Framework de Segurança</a> - Toolkit para implementação de protocolos de segurança em aplicações</li>
@@ -56,7 +56,7 @@
   </ul>
 </details>
 
-<h2>📫 Contato</h2>
+## 📫 Contato
 <div align="center">
   <a href="mailto:luizfspb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
