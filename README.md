@@ -66,28 +66,6 @@ Ideal para empresas que desejam digitalizar processos internos, melhorar a tomad
   </ul>
 </details>
 
-<details>
-  <summary>💼 Experiência Profissional</summary>
-  
-  ### 🎯 Especialista em TI & Lead Backend
-  **Empresa Atual** | 2021 — Presente
-  - Liderando a modernização da plataforma bancária core
-  - Implementação de sistemas gRPC
-  - Gerenciamento de clusters de banco de dados de alta disponibilidade
-
-  ### 👨‍💼 Engenheiro de Software Sênior
-  **Tech Solutions Inc** | 2018 — 2021
-  - Arquitetura de plataforma SaaS baseada em microsserviços
-  - Atendimento a 500k+ usuários ativos mensais
-  - Mentoria de equipes de desenvolvimento
-
-  ### 🚀 Desenvolvedor Full Stack
-  **Startup Lab** | 2016 — 2018
-  - Ciclo de vida completo de ferramentas ERP
-  - Design de banco de dados
-  - Implementação de frontend e backend
-</details>
-
 ## 📫 Contato & Redes
 
 <div align="center">
